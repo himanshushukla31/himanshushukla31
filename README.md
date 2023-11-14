@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there! 👋 I'm Himanshu Shukla</h1>
-<p align="center">Product Engineer | Fullstack Developer | Tech Enthusiast</p>
+<p align="center">🚀 Product Engineer | Fullstack Developer | Tech Enthusiast 🌟</p>
 
 <!-- About Me -->
 ## About Me
@@ -51,8 +51,8 @@ I'm a passionate Product Engineer and Fullstack Developer with a love for crafti
 <!-- Projects -->
 ## Featured Projects
 
-- [Project 1: Dynamic Registration Portal](#)
-- [Project 2: Full-stack Website Development](#)
+- 🌐 [Project 1: Dynamic Registration Portal](#)
+- 💻 [Project 2: Full-stack Website Development](#)
 
 <!-- Footer -->
 <p align="center">Feel free to explore my projects and connect with me. Let's code and build awesome things together! 🚀</p>
