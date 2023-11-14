@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://i.ibb.co/1vxdd0z/himanshu.jpg" alt="Himanshu Shukla" width="200" height="200" />
-</p>
 <h1 align="center">Hi there! 👋 I'm Himanshu Shukla</h1>
 <p align="center">Product Engineer | Fullstack Developer | Tech Enthusiast</p>
 
@@ -18,7 +15,7 @@ I'm a passionate Product Engineer and Fullstack Developer with a love for crafti
 ![HTML](https://img.shields.io/badge/HTML-★★★★☆-orange)
 ![CSS](https://img.shields.io/badge/CSS-★★★★☆-blue)
 ![Python](https://img.shields.io/badge/Python-★★★☆☆-green)
-![C++](https://img.shields.io/badge/C++-★★★☆☆-purple)
+![C++](https://img.shields.io/badge/C++-★★★★☆-purple)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-★★★★☆-blue)
