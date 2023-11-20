@@ -48,11 +48,10 @@ I'm a passionate Product Engineer and Fullstack Developer with a love for crafti
   </a>
 </p>
 
-<!-- Projects -->
+<!-- Portfolio -->
 ## Featured Projects
 
-- 🌐 [Project 1: Dynamic Registration Portal](#)
-- 💻 [Project 2: Full-stack Website Development](#)
+- 🌐 [Himanshu's Portfolio](https://himanshu-portfolio-site.vercel.app/)
 
 <!-- Footer -->
 <p align="center">Feel free to explore my projects and connect with me. Let's code and build awesome things together! 🚀</p>
