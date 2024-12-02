@@ -1,57 +1,61 @@
-<!-- Header -->
-<h1 align="center">Hi there! 👋 I'm Himanshu Shukla</h1>
-<p align="center">🚀 Product Engineer | Fullstack Developer | Tech Enthusiast 🌟</p>
+# Hi there! 👋 I'm Himanshu Shukla
 
-<!-- About Me -->
-## About Me
+## 🚀 Product Engineer | Fullstack Developer | Tech Enthusiast
 
-I'm a passionate Product Engineer and Fullstack Developer with a love for crafting solutions that make a difference. I specialize in server-side technologies, database management, and front-end development. Turning ideas into reality is what I enjoy the most.
+---
 
-<!-- Skills -->
-## Skills
+### 🌟 About Me
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)
-![HTML](https://img.shields.io/badge/HTML-★★★★☆-orange)
-![CSS](https://img.shields.io/badge/CSS-★★★★☆-blue)
-![Python](https://img.shields.io/badge/Python-★★★☆☆-green)
-![C++](https://img.shields.io/badge/C++-★★★★☆-purple)
+I'm a passionate Product Engineer and Fullstack Developer with an insatiable curiosity for crafting innovative solutions. My journey in tech is driven by a simple motto: **turning ideas into reality**. I specialize in server-side technologies, database management, and front-end development, always seeking to push the boundaries of what's possible.
 
-### Frameworks
-![React](https://img.shields.io/badge/React-★★★★☆-blue)
-![Next.js](https://img.shields.io/badge/Next.js-★★★★☆-black)
-![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
-![Django](https://img.shields.io/badge/Django-★★★★☆-grey)
+---
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★☆☆-blue)
+### 💻 Tech Arsenal
 
-### Cloud/Devops
-![AWS](https://img.shields.io/badge/AWS-★★★☆☆-orange)
-![Docker](https://img.shields.io/badge/Docker-★★★☆☆-blue)
-![Linux](https://img.shields.io/badge/Linux-★★★☆☆-black)
+#### Languages & Programming Skills
+| Technology | Proficiency |
+|-----------|-------------|
+| JavaScript | ⭐⭐⭐⭐☆ |
+| HTML/CSS | ⭐⭐⭐⭐☆ |
+| Python | ⭐⭐⭐☆☆ |
+| C++ | ⭐⭐⭐⭐☆ |
 
-<!-- Connect with Me -->
-## Connect with Me
+#### Frameworks & Libraries
+| Framework | Experience |
+|-----------|------------|
+| React | ⭐⭐⭐⭐☆ |
+| Next.js | ⭐⭐⭐⭐☆ |
+| Node.js | ⭐⭐⭐⭐☆ |
+| Django | ⭐⭐⭐⭐☆ |
 
-<p align="center">
-  <a href="https://github.com/himanshushukla31">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/himanshu-shukla-23565119a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <!-- Replace # with your LeetCode profile link -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-</p>
+#### Databases
+| Database | Skill Level |
+|----------|-------------|
+| MongoDB | ⭐⭐⭐⭐☆ |
+| PostgreSQL | ⭐⭐⭐☆☆ |
 
-<!-- Portfolio -->
-## Featured Projects
+#### Cloud & DevOps
+| Technology | Proficiency |
+|-----------|-------------|
+| AWS | ⭐⭐⭐☆☆ |
+| Docker | ⭐⭐⭐☆☆ |
+| Linux | ⭐⭐⭐☆☆ |
 
-- 🌐 [Himanshu's Portfolio](https://himanshu-portfolio-site.vercel.app/)
+---
 
-<!-- Footer -->
-<p align="center">Feel free to explore my projects and connect with me. Let's code and build awesome things together! 🚀</p>
+### 🌐 Featured Projects
+
+#### [Himanshu's Portfolio](https://himanshu-portfolio-site.vercel.app/)
+A showcase of my technical skills and creative solutions.
+
+---
+
+### 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/himanshushukla31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-shukla-23565119a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Challenges-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+
+---
+
+**Feel free to explore my projects and connect with me. Let's code and build awesome things together!** 🚀
