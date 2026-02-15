@@ -1,61 +1,116 @@
-# Hi there! 👋 I'm Himanshu Shukla
+# Hi, I'm Himanshu Shukla 👋
 
-## 🚀 Product Engineer | Fullstack Developer | Tech Enthusiast
+### Senior Product Engineer | AI Platforms | LLM Applications | Full-Stack | AWS
 
----
+I build production-grade AI systems and full-stack products end-to-end — from architecture and backend systems to deployment and scaling.
 
-### 🌟 About Me
-
-I'm a passionate Product Engineer and Fullstack Developer with an insatiable curiosity for crafting innovative solutions. My journey in tech is driven by a simple motto: **turning ideas into reality**. I specialize in server-side technologies, database management, and front-end development, always seeking to push the boundaries of what's possible.
+My work focuses on designing intelligent platforms powered by Large Language Models, Retrieval-Augmented Generation (RAG), and scalable cloud infrastructure.
 
 ---
 
-### 💻 Tech Arsenal
+## 🚀 What I Do
 
-#### Languages & Programming Skills
-| Technology | Proficiency |
-|-----------|-------------|
-| JavaScript | ⭐⭐⭐⭐☆ |
-| HTML/CSS | ⭐⭐⭐⭐☆ |
-| Python | ⭐⭐⭐☆☆ |
-| C++ | ⭐⭐⭐⭐☆ |
-
-#### Frameworks & Libraries
-| Framework | Experience |
-|-----------|------------|
-| React | ⭐⭐⭐⭐☆ |
-| Next.js | ⭐⭐⭐⭐☆ |
-| Node.js | ⭐⭐⭐⭐☆ |
-| Django | ⭐⭐⭐⭐☆ |
-
-#### Databases
-| Database | Skill Level |
-|----------|-------------|
-| MongoDB | ⭐⭐⭐⭐☆ |
-| PostgreSQL | ⭐⭐⭐☆☆ |
-
-#### Cloud & DevOps
-| Technology | Proficiency |
-|-----------|-------------|
-| AWS | ⭐⭐⭐☆☆ |
-| Docker | ⭐⭐⭐☆☆ |
-| Linux | ⭐⭐⭐☆☆ |
+* Build AI platforms with multi-model orchestration, prompt versioning, and evaluation
+* Develop LLM applications using OpenAI, Anthropic, and open-source models
+* Design and deploy Retrieval-Augmented Generation (RAG) pipelines
+* Fine-tune models and implement similarity search using embeddings
+* Build full-stack applications from scratch
+* Architect scalable backend systems and APIs
+* Deploy and manage production systems on AWS and on-premise infrastructure
 
 ---
 
-### 🌐 Featured Projects
+## 🧠 Current Focus
 
-#### [Himanshu's Portfolio](https://himanshu-portfolio-site.vercel.app/)
-A showcase of my technical skills and creative solutions.
-
----
-
-### 🤝 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/himanshushukla31)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-shukla-23565119a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Challenges-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+* AI Platform Engineering
+* LLM Applications & RAG Systems
+* Model Fine-Tuning & Prompt Engineering
+* Scalable Backend Systems
+* Cloud Infrastructure & Docker Deployments
+* AI-accelerated development workflows
 
 ---
 
-**Feel free to explore my projects and connect with me. Let's code and build awesome things together!** 🚀
+## 🛠 Tech Stack
+
+### AI / Machine Learning
+
+* LLM Applications
+* Retrieval Augmented Generation (RAG)
+* Prompt Engineering & Versioning
+* Embeddings & Similarity Search
+* Open-Source Models & Fine-Tuning
+
+### Backend & Systems
+
+* Python, Django
+* Node.js
+* REST APIs
+* Distributed Systems Design
+
+### Frontend
+
+* React
+* Next.js
+* JavaScript, HTML, CSS
+
+### Infrastructure & DevOps
+
+* AWS (S3, ECS, VPC, Cost Optimization)
+* Docker (Cloud & On-Prem Deployments)
+* Linux
+* CI/CD Pipelines
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+
+---
+
+## 🧩 What Sets Me Apart
+
+* Build complete products, not just features
+* Strong ownership from architecture to deployment
+* Focus on production-grade AI systems
+* Experience with real-world scaling and infrastructure
+* Fast iteration using modern AI-assisted engineering tools
+
+---
+
+## 📌 Featured Project
+
+### AI Platform (In Progress)
+
+Production AI platform supporting:
+
+* Multi-model orchestration
+* Prompt management & versioning
+* RAG pipelines
+* Model fine-tuning workflows
+* Scalable deployment infrastructure
+
+---
+
+## 📊 GitHub Activity
+
+Consistent contributor building systems, experimenting with AI, and shipping production features.
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/himanshushukla31
+* LinkedIn: https://www.linkedin.com/in/himanshushukla31
+* Portfolio: https://himanshu-portfolio-site.vercel.app/
+
+---
+
+## ⚡ Philosophy
+
+I believe in building intelligent systems that solve real problems.
+Code is a tool. Systems are the outcome. Products are the goal.
+
+---
+
+⭐ Always building. Always learning. Always shipping.
